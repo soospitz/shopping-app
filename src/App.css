@@ -78,15 +78,18 @@ i {
 .cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  padding: 15px;
 }
 .column {
   float: left;
   margin-top: 0px;
-  
   padding: 15px;
-  border: 1px solid lightslategray; 
   border-radius: 5px;
-  margin: 10px;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
+  margin: 15px;
+}
+.column:hover {
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.1);
 }
 .item img{
   display: block;
@@ -123,9 +126,6 @@ i {
   border-radius: 0;
   cursor: pointer;
   width: 70px;
-}
-.cards {
-  padding: 10px;
 }
 .cart-label {
   padding-bottom: 5px;
@@ -202,6 +202,15 @@ i {
 .title {
   display: grid;
   grid-template-columns: 80% 20%;
+}
+.about {
+  text-align: center;
+}
+.about p {
+  padding: 20px;
+}
+.about button {
+  cursor: pointer;
 }
 .App {
   text-align: center;
