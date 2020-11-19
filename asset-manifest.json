@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping-app/static/css/main.3eb976b5.chunk.css",
+    "main.js": "/shopping-app/static/js/main.d4c4af81.chunk.js",
+    "main.js.map": "/shopping-app/static/js/main.d4c4af81.chunk.js.map",
+    "runtime-main.js": "/shopping-app/static/js/runtime-main.0dc13ba3.js",
+    "runtime-main.js.map": "/shopping-app/static/js/runtime-main.0dc13ba3.js.map",
+    "static/js/2.4cc8b8a0.chunk.js": "/shopping-app/static/js/2.4cc8b8a0.chunk.js",
+    "static/js/2.4cc8b8a0.chunk.js.map": "/shopping-app/static/js/2.4cc8b8a0.chunk.js.map",
+    "static/js/3.638cfaa6.chunk.js": "/shopping-app/static/js/3.638cfaa6.chunk.js",
+    "static/js/3.638cfaa6.chunk.js.map": "/shopping-app/static/js/3.638cfaa6.chunk.js.map",
+    "index.html": "/shopping-app/index.html",
+    "static/css/main.3eb976b5.chunk.css.map": "/shopping-app/static/css/main.3eb976b5.chunk.css.map",
+    "static/js/2.4cc8b8a0.chunk.js.LICENSE.txt": "/shopping-app/static/js/2.4cc8b8a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dc13ba3.js",
+    "static/js/2.4cc8b8a0.chunk.js",
+    "static/css/main.3eb976b5.chunk.css",
+    "static/js/main.d4c4af81.chunk.js"
+  ]
+}
