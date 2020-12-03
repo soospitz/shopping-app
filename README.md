@@ -3,7 +3,7 @@
 [link to Live Site!](https://soospitz.github.io/shopping-app/#/)
 
 
-An Online Shopping Application that allows users to to browse products, add to cart, and favorite items
+An Online Shopping Application that allows users to browse products, add to cart, and favorite items
 
 Features filterable and sortable list of products, add and remove items from cart, responsive design, Hooks, and dynamic routing using React-Router
 
